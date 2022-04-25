@@ -1,4 +1,4 @@
-# :rocket: landingpage-botdiscord
+# :rocket: landingpage-botdiscord 🤖
 
 Projeto de landing page HTML e CSS puro,
 
